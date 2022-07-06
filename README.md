@@ -1,3 +1,3 @@
 # Eric-s_projects
 
-A website project using just HTML and CSS.
+A repo for hosting all of my youtube tutorial projects.
